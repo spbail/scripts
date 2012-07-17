@@ -1,0 +1,1 @@
+python ../merge_csv.py master.csv data1.csv data2.csv

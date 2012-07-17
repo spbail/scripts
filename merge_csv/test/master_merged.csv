@@ -1,0 +1,10 @@
+ONTOLOGY,DL,AXIOMS,CLASSES,INDIVIDUALS,PROPERTIES,JUSTS,UNIQUE JUSTS,BUCKETS,JUSTS,MEAN BUCKET SIZE,STDEV BUCKET SIZE
+amino-acid,ALCF(D),477,46,0,5,181,174,22,181,8.2,12.8
+anatomical-entity-ontology,S,357,238,0,2,1,1,1,1,1,0
+bleeding-history-phenotype,ALCIF(D),1925,544,0,33,227,227,32,227,16.2,38.6
+basic-formal-ontology,ALC,95,39,0,0,35,13,4,35,8.8,4.3
+basic-vertebrate-anatomy,SHIF,386,99,0,74,3,2,2,3,1.5,0.5
+bioassay-ontology,SROIQ(D),1715,1277,42,82,44,33,13,44,3.4,3
+amphibian-gross-anatomy,ALE,2673,1601,0,10,1,1,1,1,1,0
+biological-imaging-methods,S,548,517,0,1,59,59,23,59,2.6,2.4
+biomedical-resource-ontology,ALUF(D),1252,483,530,12,3,3,1,3,3,0
