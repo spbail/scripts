@@ -1,6 +1,7 @@
 # merge_csv.py v1.0
 # sbail@delorean, 17/07/2012
 # appends columns from other csv files to a csv, using the first column as the key
+# seriously hideous code atm, but does the job
 
 # todo: allow user to specify the column to be used as key
 # todo: remove duplicate columns in the resulting csv
