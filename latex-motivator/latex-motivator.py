@@ -1,11 +1,13 @@
 # LATEX-MOTIVATOR++
+# version 0.1 alpha
 # Author:  SP Bail
-# based on Dr Bijan Parsia's [1] LaTeX count script 
+# based on Dr Bijan Parsia's LaTeX count script 
+# http://www.cs.man.ac.uk/~bparsia/
 # Keeps track of latex wordcount and sends motivating messages. Oh yes.
+
 # Feature 1: Keep track of wordcount + send motivating message
 # Feature 2: Keeps track of progress in % of final count
 # Feature 3: Keeps track of wordcount with date + count as CSV
-# [1] http://www.cs.man.ac.uk/~bparsia/
 
 #TODO: super mega feature: keep motivating messages in csv, with the respective lower limit
 #TODO: plot progress
