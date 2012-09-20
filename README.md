@@ -6,7 +6,7 @@ Author: sbail
 Each directory contains a test dir with data + script to run the test
 
 Merge CSV
-=======
+====
 Merge CSV merges CSV files by columns, taking the first column as a key.
 E.g. if you have something like this:
 
