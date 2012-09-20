@@ -11,12 +11,15 @@ Merge CSV merges CSV files by columns, taking the first column as a key.
 E.g. if you have something like this:
 
 File 1
+
 Name | Age | Phone number
 
 File 2
+
 Name | Address
 
 The resulting CSV file will be
+
 Name | Age | Phone number | Address
 
 Duplicates are removed and keys without match discarded. 
