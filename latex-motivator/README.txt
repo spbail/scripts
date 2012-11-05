@@ -8,7 +8,7 @@ Based on Bijan Parsia's LaTeX count script.
 
 Author: SP Bail, bails@cs.man.ac.uk
 
-Install: Copy all scripts into the directory with your LaTeX file (I'll sort this asap!)
+Install: Copy all scripts into the directory with your LaTeX file (I shall make this more user-friendly soon...)
 
 Run: python latex-motivator.py
 
