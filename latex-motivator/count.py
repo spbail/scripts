@@ -44,20 +44,18 @@ def get_last_count(stats):
     return int(stats[len(stats)-1][1])
         
 def get_motivating_message(diff):
-    if diff <= 0:
+    if diff <= 250:
         return "Get working, slacker!"
-    elif diff <= 100:
+    elif diff <= 500:
         return "Well, that's something. A small something! Get cracking!"
-    elif diff <=250:
-        return "Getting there..."
-    elif diff <= 400:
-        return "You're on a roll!"
-    elif diff < 500:
-        return "You're in the end game."
-    elif diff > 2500:
+    elif diff <= 1000:
+        return "Whoohoo! You've cracked the magic 500. Now get back to work!"
+    elif diff <= 1500:
+        return "OMG you've, like, written, like, literally, over, like, a thousand words!!!11!1!"
+    elif diff <= 2500:
         return "You're. On. FIRE!"
     else:
-        return """Good job! Treat yourself to some cake... then come back and write some more!"""
+        return """Amazeballs! Treat yourself to some cake... then come back and write some more!"""
   
  # todo: the props should be a dictionary...
 def print_current_summary(config):
