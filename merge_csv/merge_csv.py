@@ -84,6 +84,9 @@ def save_result(header, result, master_filename):
             
             
 if __name__ == "__main__":
+
+    print "Starting CSV merging...\n"
+    
     files = sys.argv[1:]
     
     header = get_header(files)
